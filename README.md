@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate frontend developer on a journey to create beautiful and functional web experiences. Here's a bit about me:
 
-- 🔭 **Currently Working On:** Building a mortgage repayment calculator 🚀
+- 🔭 **Currently Working On:** A lead tracker 🚀
 - 🌱 **Currently Learning:** The ins and outs of frontend software engineering, with a special focus on CSS and JavaScript
 - 👯 **Looking to Collaborate On:** Cool and innovative frontend projects that push the boundaries of web development
 - 🤔 **Seeking Help With:** Mastering CSS and JavaScript to create seamless, responsive designs and dynamic user experiences
