@@ -2,8 +2,8 @@
 
 Welcome to my GitHub! I'm a passionate frontend developer on a journey to create beautiful and functional web experiences. Here's a bit about me:
 
-- 🔭 **Currently Working On:** A lead tracker 🚀
-- 🌱 **Currently Learning:** The ins and outs of frontend software engineering, with a special focus on CSS and JavaScript
+- 🔭 **Currently Working On:** A video generator app 🚀
+- 🌱 **Currently Learning:** The ins and outs of Vue.js.
 - 👯 **Looking to Collaborate On:** Cool and innovative frontend projects that push the boundaries of web development
 - 🤔 **Seeking Help With:** Mastering CSS and JavaScript to create seamless, responsive designs and dynamic user experiences
 
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate frontend developer on a journey to create
 
 ### Let's Connect!
 
-- 📫 **How to reach me:** [devbydijah@gmail.com](mailto:devbydijah@gmail.com)
+- 📫 **How to reach me:** [k.kabir@devwithdijah.com](mailto:k.kabir@devwithdijah.com)
 - 🌐 **LinkedIn:** [Khadijah Kabir](https://www.linkedin.com/in/khadijahkabir/)
 - 🐦 **Twitter:** [@dijahtotheworld](https://x.com/dijahtotheworld)
 
