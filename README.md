@@ -2,7 +2,7 @@
 
 ![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR...)
 
-I'm a passionate frontend developer on a journey to create beautiful and functional web experiences, looking to collaborate on frontend and open-source projects, seeking to master CSS and JavaScript.
+I'm a passionate frontend developer on a journey to create beautiful and functional web experiences, looking to collaborate on frontend and open-source projects, seeking to master CSS and JavaScript for responsive designs, interested in Front/UI Engineer roles (Intern/Junior), and actively seeking internship opportunities.
 
 ## Table of Contents
 - [Introduction](#hi-there--im-khadijah)
@@ -12,7 +12,7 @@ I'm a passionate frontend developer on a journey to create beautiful and functio
 
 ## About Me:
 
-Hello! I'm Khadijah, a passionate frontend developer dedicated to creating beautiful and functional web experiences. My journey in frontend development has been fueled by a deep love for coding and a desire to continuously learn and grow in the tech industry.
+Hello! I'm Khadijah, a passionate frontend developer dedicated to creating beautiful and functional web experiences. My journey in frontend development has been fueled by a deep love for coding and design. 
 
 - 🌱 **Currently Learning:** Vue.js, React.js, and TypeScript.
 - 🔭 **Currently Working On:** 
@@ -21,9 +21,15 @@ Hello! I'm Khadijah, a passionate frontend developer dedicated to creating beaut
 - 🎧 **Recently Started:** A podcast on frontend development for newbies and tech enthusiasts.
   - [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2hYlsKJBdrHexEPVG8F39g?si=l3X4R471QIynybBf7h6FiA)
   - [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/frontend-unfiltered/id1804719491)
-- ⭐ **Interests:** Exploring new places, listening to music,and chocolate.
+- ⭐ **Interests:** Exploring new places, listening to music, and chocolate.
 
-Feel free to check out my projects and reach out! Happy coding! 🌟).
+### Job Interests:
+- Looking to collaborate on frontend and open-source projects.
+- Seeking to master CSS and JavaScript for responsive designs.
+- Interested in Front/UI Engineer roles (Intern/Junior).
+- Actively seeking internship opportunities.
+
+Feel free to check out my projects and reach out! Happy coding! 🌟
 
 ## Projects
 
