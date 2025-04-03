@@ -38,5 +38,5 @@ Feel free to check out my projects and reach out! Happy coding! 🌟
 
 ## Contact
 - 📧 Email: [k.kabir@devwithdijah.com](mailto:k.kabir@devwithdijah.com)
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadijahkabir)
+- 🐦 Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dijahtotheworld)
