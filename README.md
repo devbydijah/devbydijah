@@ -29,8 +29,6 @@ Hello! I'm Khadijah, a passionate frontend developer dedicated to creating beaut
 - Interested in Front/UI Engineer roles (Intern/Junior).
 - Actively seeking internship opportunities.
 
-Feel free to check out my projects and reach out! Happy coding! 🌟
-
 ## Projects
 
 - **Digital Nomad Travel App:** A comprehensive mobile app designed to help digital nomads manage their travel plans efficiently. It includes features such as itinerary planning, expense tracking, and local resource recommendations.
