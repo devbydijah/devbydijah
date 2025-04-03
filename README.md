@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Khadijah!
 
-![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR...)
+[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR...)](https://engineering.altschoolafrica.com/)
 
 I'm a passionate frontend developer on a journey to create beautiful and functional web experiences, looking to collaborate on frontend and open-source projects, seeking to master CSS and JavaScript for responsive designs, interested in Front/UI Engineer roles (Intern/Junior), and actively seeking internship opportunities.
 
