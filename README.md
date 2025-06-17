@@ -18,9 +18,6 @@ Hello! I'm Khadijah, a passionate frontend developer dedicated to creating beaut
 - 🔭 **Currently Working On:** 
   - **Digital Nomad Travel App:** A mobile app designed to help digital nomads manage travel plans efficiently.
   - **Waste Management App:** An application aimed at helping users manage and reduce waste effectively.
-- 🎧 **Recently Started:** A podcast on frontend development for newbies and tech enthusiasts.
-  - [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2hYlsKJBdrHexEPVG8F39g?si=l3X4R471QIynybBf7h6FiA)
-  - [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/frontend-unfiltered/id1804[...])
 - ⭐ **Interests:** Exploring new places, listening to music, and chocolate.
 
 ### Job Interests:
